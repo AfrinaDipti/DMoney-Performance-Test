@@ -29,8 +29,9 @@ Apache JMeter 5.6.3
 
 ## Request Summary
 
-![Request Summary](screenshots/request_summary.png)
+<img width="1583" height="374" alt="Request_Summary" src="https://github.com/user-attachments/assets/ef2b2739-57ac-4770-9807-b94cecec711f" />
+
 
 ## Statistics
 
-![Statistics](screenshots/statistics.png)
+<img width="1496" height="379" alt="Statistics" src="https://github.com/user-attachments/assets/8193280f-2ea7-44f4-a461-956cdb341d4c" />
